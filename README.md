@@ -2,4 +2,4 @@ this is a test
 
 # test
 
-***markdown is cool**
+***markdown is cool***
